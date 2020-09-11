@@ -2,7 +2,7 @@
  2. using man command on ls, -a flag is used to display all files including hidden files. -l flag is use to display a long listing format of information about files and folders.
  6. To jump between words in the terminal, use Ctrl + right arrow key and Ctrl + left arrow key.
 7. To get to the end of a line in the termianl, use Ctrl + E.
-8. To move the cursor to the beginning of the terminal, use Ctrl + A. >> terminal_basics_2.md
+8. To move the cursor to the beginning of the terminal, use Ctrl + A.
 9. To delete a word without pressing backspace multiple times, use Ctrl + X and backspace key.
  10. Terminal is an application that is used to interact with the computer through a command line interface (CLI) while shell is the program that runs in the terminal.
 11. Absolute path is the path that starts from the root directory.
